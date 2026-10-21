@@ -1,9 +1,21 @@
-<div align="center"><h1><a href="https://github.com/nullcpy/rvb"><img src="https://raw.githubusercontent.com/nullcpy/rvb/a5af1123e55c63119c6b81be894602e2f032fe08/.github/assets/icon.png"> <img src="https://raw.githubusercontent.com/nullcpy/rvb/a5af1123e55c63119c6b81be894602e2f032fe08/.github/assets/icon1.png"><br>ReVanced & Morphe Builder</a></h1></div>
+# NullForge
 
-<p align="center"><b>Automatically builds and publishes APKs & Magisk/KernelSU Modules whenever new patches are released.</b></p>
+Automatically builds and publishes APKs & Magisk/KernelSU Modules whenever new patches are released.
 
-<p align="center"><a href="https://t.me/rvb27"><img src="https://img.shields.io/badge/Group-26A5E4?style=flat&logo=telegram&logoColor=white"></a> <a href="https://nullcpy.github.io/"><img src="https://img.shields.io/badge/Download-21a378?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNNSAyMGgxNHYtMkg1djJ6TTE5IDloLTRWM0g5djZINWw3IDcgNy03eiIvPjwvc3ZnPg==&logoColor=white"></a> <a href="https://t.me/s/rvb28"><img src="https://img.shields.io/badge/Channel-26A5E4?style=flat&logo=telegram&logoColor=white"></a> <a href="https://fahim-ahmed05.github.io/donate"><img src="https://img.shields.io/badge/Donate-ea4335?style=flat&logo=ko-fi&logoColor=white"></p>
+## 🔗 Links
 
-<p align="center"><a href="https://github.com/nullcpy/rvb"><img src="https://img.shields.io/github/stars/nullcpy/rvb?label=Stars&logo=github&style=social"></a> <a href="https://nullcpy.github.io/"><img src="https://img.shields.io/github/downloads/nullcpy/rvb/total?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDAwMDAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNNSAyMGgxNHYtMkg1djJ6TTE5IDloLTRWM0g5djZINWw3IDcgNy03eiIvPjwvc3ZnPg==&label=Downloads&style=social"></a></p>
+- 🌐 [Download Website](https://nullcpy.github.io/)
+- 💬 [Discord Server](https://discord.gg/d4VHpybpQq)
+- 👥 [Telegram Group](https://t.me/nullstoretg)
+- 📣 [Telegram Channel](https://t.me/s/nullstore_updates)
+- ❤️ [Donate](https://fahim-ahmed05.github.io/donate)
+- 🐞 [Report an Issue](https://github.com/nullcpy/rvb/issues/new/choose)
 
-<p align="center"><a href="https://nullcpy.github.io"><img src="https://visitor-badge.laobi.icu/badge?page_id=nullcpy.github.io&left_text=Website%20Visitors&right_color=%231283c3&format=true&query_only=true"></a> <a href="https://github.com/nullcpy/rvb"><img src="https://visitor-badge.laobi.icu/badge?page_id=nullcpy.rvb&left_text=GitHub%20Visitors&format=true"></a> </p>
+## 📊 Stats
+
+<p align="left">
+  <a href="https://github.com/nullcpy/nullcpy.github.io"><img alt="Website stars" src="https://img.shields.io/github/stars/nullcpy/nullcpy.github.io?label=Website%20Stars&style=flat&color=007ec6"></a>
+  <a href="https://github.com/nullcpy/rvb"><img alt="Builder stars" src="https://img.shields.io/github/stars/nullcpy/rvb?label=Builder%20Stars&style=flat&color=007ec6"></a>
+  <a href="https://nullcpy.github.io/"><img alt="Downloads" src="https://img.shields.io/github/downloads/nullcpy/rvb/total?label=Downloads&style=flat&color=007ec6"></a>
+  <a href="https://github.com/nullcpy/rvb"><img alt="GitHub visitors" src="https://visitor-badge.laobi.icu/badge?page_id=nullcpy.rvb&left_text=GitHub%20Visitors&right_color=%23007ec6&format=true"></a>
+</p>
